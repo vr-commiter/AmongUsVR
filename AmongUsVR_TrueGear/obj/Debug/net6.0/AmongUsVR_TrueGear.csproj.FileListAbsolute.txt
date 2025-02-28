@@ -1,0 +1,15 @@
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\bin\Debug\net6.0\AmongUsVR_TrueGear.deps.json
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\bin\Debug\net6.0\AmongUsVR_TrueGear.dll
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\bin\Debug\net6.0\AmongUsVR_TrueGear.pdb
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.csproj.AssemblyReference.cache
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\MyPluginInfo.cs
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.GeneratedMSBuildEditorConfig.editorconfig
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.AssemblyInfoInputs.cache
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.AssemblyInfo.cs
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.csproj.CoreCompileInputs.cache
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.dll
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\refint\AmongUsVR_TrueGear.dll
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsVR_TrueGear.pdb
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\ref\AmongUsVR_TrueGear.dll
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\bin\Debug\net6.0\TrueGearSDK.dll
+E:\_ModProject\AmongUsVR\AmongUsVR_TrueGear\AmongUsVR_TrueGear\obj\Debug\net6.0\AmongUsV.7A249A86.Up2Date
